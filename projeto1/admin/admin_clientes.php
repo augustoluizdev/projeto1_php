@@ -17,7 +17,7 @@
             echo "<br>===============<br>";
             echo "Id do Cliente: $dados[id] | ";
             echo "Nome: $dados[cliente] | ";
-            echo "Cidade: $dados[cidade] | ";
+            echo "Email: $dados[email] | ";
             echo "Estado: $dados[estado] ";
             echo " | <a href='?pg=form_clientes_alterar&id=$dados[id]'>Alterar</a>";
             echo " | <a href='?pg=delete_cliente&id=$dados[id]'>Excluir</a>";

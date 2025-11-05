@@ -7,7 +7,7 @@
     while ($cliente = mysqli_fetch_array($resultado)){
         $id = $cliente['id'];
         $nome = $cliente['cliente'];
-        $cidade = $cliente['cidade'];
+        $email = $cliente['email'];
         $estado = $cliente['estado'];
     }
 ?>
@@ -17,8 +17,9 @@
     <label>Nome do cliente:</label>
     <input type="text" name="cliente" value="<?=$nome?>">
     <label>Cidade:</label>
-    <input type="text" name="cidade" value="<?=$cidade?>">
+    <input type="text" name="email" value="<?=$email?>">
     <label>Estado:</label>
     <input type="text" name="estado" value="<?=$estado?>">
+    <br>
     <input type="submit" value="Cadastrar">
 </form>
