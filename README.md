@@ -87,7 +87,6 @@ Contém campos para identificação, nome do produto, preço e descrição.
 - **index.php** — Página inicial pública  
 - **clientes.php / produtos.php** — Listagem de clientes e produtos  
 - **admin/** — Área administrativa (login, painel, cadastros)  
-- **assets/** — Pasta para imagens e scripts auxiliares  
 - **projeto1.sql** — Estrutura e dados do banco  
 - **README.md** — Documentação do projeto  
 
@@ -140,4 +139,5 @@ Você pode usar, modificar e distribuir o código livremente, mantendo os devido
 
 Após importar o banco de dados e iniciar o servidor com o XAMPP, acesse o endereço local da aplicação.  
 Se as listagens de produtos e clientes forem exibidas corretamente, o ambiente está configurado com sucesso. 🎉
+
 
