@@ -123,7 +123,7 @@ Cada registro possui opções de **editar** ✏️ e **excluir** ❌.
 
 ## 🧑‍💻 Autores
 
-Pedro Henrique Matos Leitão de Medeiros/
+Pedro Henrique Matos Leitão de Medeiros
 
 Augusto Luiz Lima Dantas
 
@@ -140,6 +140,7 @@ Você pode usar, modificar e distribuir o código livremente, mantendo os devido
 
 Após importar o banco de dados e iniciar o servidor com o XAMPP, acesse o endereço local da aplicação.  
 Se as listagens de produtos e clientes forem exibidas corretamente, o ambiente está configurado com sucesso. 🎉
+
 
 
 
